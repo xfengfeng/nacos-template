@@ -513,7 +513,7 @@
       "valueName": "current"
     },
     {
-      "content": "<html>\n<body>\n<center>\n<a href=\"https://nacos.io\">\n<img src=\"https://nacos.io/img/nacos.png\" style=\"height: 50px;\" >\n</a>\n</center>\n</body>\n</html>",
+      "content": "<center>\n<br>\n<a href=\"https://nacos.io\">\n<img src=\"https://nacos.io/img/nacos.png\" style=\"height: 50px;\" >\n</a>\n</center>",
       "gridPos": {
         "h": 3,
         "w": 6,
